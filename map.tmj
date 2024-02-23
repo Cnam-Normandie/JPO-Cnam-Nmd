@@ -216,7 +216,7 @@
                          "value":"https:\/\/www.cnam-normandie.fr"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":31,
                  "x":0,
                  "y":0
