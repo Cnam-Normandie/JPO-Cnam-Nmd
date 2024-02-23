@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/laurent.labbe.free.fr\/informations"
+                 "value":"http:\/\/laurent.labbe.free.fr\/informations\/informations_fichiers\/image001.png"
                 }],
          "type":"tilelayer",
          "visible":true,
