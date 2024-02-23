@@ -172,7 +172,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openSiteweb",
+                 "name":"OpenWebsite",
                  "type":"string",
                  "value":"https:\/\/www.cnam-normandie.fr\/cnam-normandie\/telechargez-les-brochures-du-cnam-normandie-1084421.kjsp?RH=1525702416058"
                 }],
