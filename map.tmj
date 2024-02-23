@@ -125,12 +125,6 @@
                  "id":4,
                  "name":"floor1",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.cnam-normandie.fr"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":31,
@@ -173,12 +167,6 @@
                  "id":57,
                  "name":"floor2",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.cnam-normandie.fr"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":31,
