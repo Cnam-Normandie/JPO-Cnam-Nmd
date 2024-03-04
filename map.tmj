@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/laurent.labbe.free.fr\/informations"
+                 "value":"https:\/\/www.cnam-normandie.fr"
                 }],
          "type":"tilelayer",
          "visible":true,
